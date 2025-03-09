@@ -42,3 +42,4 @@ MaybeGetBrain:bkgroup
 NikitaShakal:bkgroup
 Starinka:dev
 Vospolnyayka:dev
+DiFiX:tester
